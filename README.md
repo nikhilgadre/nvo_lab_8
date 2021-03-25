@@ -49,15 +49,13 @@ Upon creation of VM, Floating IPs are automatically created and assigned to VM
 ![image](https://user-images.githubusercontent.com/63819430/112410770-61b95c00-8ce1-11eb-8c2c-e184b3fb99b5.png)
 ![image](https://user-images.githubusercontent.com/63819430/112410857-844b7500-8ce1-11eb-8891-6c10fe1af68f.png)
 ![image](https://user-images.githubusercontent.com/63819430/112411001-c83e7a00-8ce1-11eb-8300-41560d9c3ad6.png)
-
-
+![image](https://user-images.githubusercontent.com/63819430/112411114-f58b2800-8ce1-11eb-9eab-617f8b4cdf50.png)
 
 ### Objective 3: Automate the security groups and port security configuration to make intra-VN and inter-VN communication possible
 This security group configuration allows all intra-VN and inter-VN communication possible
 ![image](https://user-images.githubusercontent.com/63819430/112409459-2b7add00-8cdf-11eb-9697-553d6b804e6b.png)
 ![image](https://user-images.githubusercontent.com/63819430/112409507-3c2b5300-8cdf-11eb-993b-0a65ac4563e5.png)
 ![image](https://user-images.githubusercontent.com/63819430/112409605-6d0b8800-8cdf-11eb-84a0-31ab180277ee.png)
-
 
 ### Objective 4: Automate spinning up and configuring a Quagga/FRR BGP router as a Docker container
 a. Automate its BGP configuration to peer with the SDN controller in the next objective.
