@@ -1,5 +1,9 @@
 # NVO_Lab_8
 
+
+Edit the required environment variables found in the admin-openrc.sh in the .py file
+![image](https://user-images.githubusercontent.com/63819430/112406993-e2288e80-8cda-11eb-9f9e-379594b9a90f.png)
+Run the .py file and select the required option
 ### Objective 1: Automate the creation of multiple virtual networks (VNs) within the hypervisor and their connection to the public network
 ### Objective 2: Automate the creation of multiple VMs within the hypervisor-
 a. Both single tenant (same VN) and multi-tenant (different VNs)
