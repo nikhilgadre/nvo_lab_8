@@ -37,10 +37,23 @@ Connected the router r1 to networks net1 and net2
 
 ### Objective 2: Automate the creation of multiple VMs within the hypervisor-
 a. Both single tenant (same VN) and multi-tenant (different VNs)
+
 b. All VMs should be accessible from the host server and be able to access the Internet
+
+Upon creation of VM, Floating IPs are automatically created and assigned to VM
+
+![image](https://user-images.githubusercontent.com/63819430/112410045-2c603e80-8ce0-11eb-95eb-b8bd827e5fc6.png)
+![image](https://user-images.githubusercontent.com/63819430/112410078-3c781e00-8ce0-11eb-9c11-b6423c1c712d.png)
+![image](https://user-images.githubusercontent.com/63819430/112410605-0f783b00-8ce1-11eb-8654-3a0c59cbf0b3.png)
+![image](https://user-images.githubusercontent.com/63819430/112410704-42223380-8ce1-11eb-9634-0d6dfb377f64.png)
+
+
 ### Objective 3: Automate the security groups and port security configuration to make intra-VN and inter-VN communication possible
+This security group configuration allows all intra-VN and inter-VN communication possible
 ![image](https://user-images.githubusercontent.com/63819430/112409459-2b7add00-8cdf-11eb-9697-553d6b804e6b.png)
 ![image](https://user-images.githubusercontent.com/63819430/112409507-3c2b5300-8cdf-11eb-993b-0a65ac4563e5.png)
+![image](https://user-images.githubusercontent.com/63819430/112409605-6d0b8800-8cdf-11eb-84a0-31ab180277ee.png)
+
 
 ### Objective 4: Automate spinning up and configuring a Quagga/FRR BGP router as a Docker container
 a. Automate its BGP configuration to peer with the SDN controller in the next objective.
