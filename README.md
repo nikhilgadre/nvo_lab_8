@@ -39,6 +39,9 @@ Connected the router r1 to networks net1 and net2
 a. Both single tenant (same VN) and multi-tenant (different VNs)
 b. All VMs should be accessible from the host server and be able to access the Internet
 ### Objective 3: Automate the security groups and port security configuration to make intra-VN and inter-VN communication possible
+![image](https://user-images.githubusercontent.com/63819430/112409459-2b7add00-8cdf-11eb-9697-553d6b804e6b.png)
+![image](https://user-images.githubusercontent.com/63819430/112409507-3c2b5300-8cdf-11eb-993b-0a65ac4563e5.png)
+
 ### Objective 4: Automate spinning up and configuring a Quagga/FRR BGP router as a Docker container
 a. Automate its BGP configuration to peer with the SDN controller in the next objective.
 ### Objective 5: Automate spinning up and configuring an SDN controller as another Docker container
