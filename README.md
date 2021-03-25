@@ -17,8 +17,16 @@ Created 2 networks net1 - 192.168.1.0/24 and net2 - 192.168.2.0/24
 ![image](https://user-images.githubusercontent.com/63819430/112407665-1fd9e700-8cdc-11eb-90f1-bf9a0186d876.png)
 
 Created 1 router r1
+![image](https://user-images.githubusercontent.com/63819430/112407806-59125700-8cdc-11eb-9855-f5657df35414.png)
+
 Connected the router r1 to the public subnet
+![image](https://user-images.githubusercontent.com/63819430/112407953-8c54e600-8cdc-11eb-8517-9529cc25153a.png)
+
 Connected the router r1 to networks net1 and net2
+![image](https://user-images.githubusercontent.com/63819430/112408074-be664800-8cdc-11eb-9195-06a70c33f1f2.png)
+![image](https://user-images.githubusercontent.com/63819430/112408105-d1791800-8cdc-11eb-8ba0-e859e0c3123c.png)
+
+
 ### Objective 2: Automate the creation of multiple VMs within the hypervisor-
 a. Both single tenant (same VN) and multi-tenant (different VNs)
 b. All VMs should be accessible from the host server and be able to access the Internet
