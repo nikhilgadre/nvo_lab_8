@@ -11,20 +11,28 @@ Run the .py file and select the required option
 Select the required sub option:
 
 Created 2 networks net1 - 192.168.1.0/24 and net2 - 192.168.2.0/24
+
 ![image](https://user-images.githubusercontent.com/63819430/112407502-ce315c80-8cdb-11eb-8aab-85a41e913b17.png)
 ![image](https://user-images.githubusercontent.com/63819430/112407541-e3a68680-8cdb-11eb-9ba9-8d7df00b372c.png)
 ![image](https://user-images.githubusercontent.com/63819430/112407622-0769cc80-8cdc-11eb-8b9a-6e533bdc908c.png)
 ![image](https://user-images.githubusercontent.com/63819430/112407665-1fd9e700-8cdc-11eb-90f1-bf9a0186d876.png)
 
 Created 1 router r1
+
 ![image](https://user-images.githubusercontent.com/63819430/112407806-59125700-8cdc-11eb-9855-f5657df35414.png)
 
 Connected the router r1 to the public subnet
-![image](https://user-images.githubusercontent.com/63819430/112407953-8c54e600-8cdc-11eb-8517-9529cc25153a.png)
+
+![image](https://user-images.githubusercontent.com/63819430/112408963-4862e080-8cde-11eb-84ae-e13737b4e7f1.png)
+
 
 Connected the router r1 to networks net1 and net2
-![image](https://user-images.githubusercontent.com/63819430/112408074-be664800-8cdc-11eb-9195-06a70c33f1f2.png)
-![image](https://user-images.githubusercontent.com/63819430/112408105-d1791800-8cdc-11eb-8ba0-e859e0c3123c.png)
+
+![image](https://user-images.githubusercontent.com/63819430/112409184-a7285a00-8cde-11eb-9122-df74d3708c92.png)
+![image](https://user-images.githubusercontent.com/63819430/112409262-caeba000-8cde-11eb-979a-59329805dda1.png)
+
+![image](https://user-images.githubusercontent.com/63819430/112409306-e35bba80-8cde-11eb-8abb-6af0b9286629.png)
+
 
 
 ### Objective 2: Automate the creation of multiple VMs within the hypervisor-
