@@ -46,6 +46,10 @@ Upon creation of VM, Floating IPs are automatically created and assigned to VM
 ![image](https://user-images.githubusercontent.com/63819430/112410078-3c781e00-8ce0-11eb-9c11-b6423c1c712d.png)
 ![image](https://user-images.githubusercontent.com/63819430/112410605-0f783b00-8ce1-11eb-8654-3a0c59cbf0b3.png)
 ![image](https://user-images.githubusercontent.com/63819430/112410704-42223380-8ce1-11eb-9634-0d6dfb377f64.png)
+![image](https://user-images.githubusercontent.com/63819430/112410770-61b95c00-8ce1-11eb-8c2c-e184b3fb99b5.png)
+![image](https://user-images.githubusercontent.com/63819430/112410857-844b7500-8ce1-11eb-8891-6c10fe1af68f.png)
+![image](https://user-images.githubusercontent.com/63819430/112411001-c83e7a00-8ce1-11eb-8300-41560d9c3ad6.png)
+
 
 
 ### Objective 3: Automate the security groups and port security configuration to make intra-VN and inter-VN communication possible
